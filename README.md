@@ -31,3 +31,4 @@
 
 
 ## 🛠 Want to dig into my code?
+[Here's the notebook](https://github.com/JacobTews/hiring_pipeline_analysis/blob/main/eda.ipynb), a bit messy but still worth perusing!
